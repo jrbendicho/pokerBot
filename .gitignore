@@ -1,0 +1,6 @@
+/nbproject/
+/framework/offerdat/protected/config/main.php
+/framework/offerdat/protected/models/OD_paths.php
+/framework/offerdat/protected/runtime/
+
+framework/offerdat/protected/models/OD_pushNotifications.php
